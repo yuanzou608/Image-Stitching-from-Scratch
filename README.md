@@ -126,23 +126,17 @@ Warp one image into the coordinate system of the other and blend them to generat
 
 ### Castle
 
-> *(Insert panorama image here)*
-
 ![Castle](docs/images/stitched_castle.jpg)
 
 ---
 
 ### Singapore
 
-> *(Insert panorama image here)*
-
 ![Singapore](docs/images/stitched_singapore.jpg)
 
 ---
 
 ### University
-
-> *(Insert panorama image here)*
 
 ![University](docs/images/stitched_monash.jpg)
 
