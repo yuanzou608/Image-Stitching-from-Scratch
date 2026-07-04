@@ -10,7 +10,7 @@ Origin
 ![Castle](docs/images/origin.png)
 
 Final
-![Castle](docs/images/stitched_castle.jpg)
+![Castle](docs/images/stitched_singapore.jpg)
 
 ## Overview
 
