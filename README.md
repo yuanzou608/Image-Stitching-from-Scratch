@@ -5,8 +5,12 @@ A Computer Vision project implementing a complete image stitching pipeline from 
 This project was completed for **Computer Vision** at **Monash University**.
 
 ---
+Origin
 
+![Castle](docs/images/origin.png)
 
+Final
+![Castle](docs/images/stitched_castle.jpg)
 
 ## Overview
 
@@ -124,7 +128,7 @@ Warp one image into the coordinate system of the other and blend them to generat
 
 > *(Insert panorama image here)*
 
-![Castle](docs/images/stitched_castle.png)
+![Castle](docs/images/stitched_castle.jpg)
 
 ---
 
@@ -132,7 +136,7 @@ Warp one image into the coordinate system of the other and blend them to generat
 
 > *(Insert panorama image here)*
 
-![Singapore](docs/images/stitched_singapore.png)
+![Singapore](docs/images/stitched_singapore.jpg)
 
 ---
 
@@ -140,7 +144,7 @@ Warp one image into the coordinate system of the other and blend them to generat
 
 > *(Insert panorama image here)*
 
-![University](docs/images/stitched_monash.png)
+![University](docs/images/stitched_monash.jpg)
 
 ---
 
