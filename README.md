@@ -71,7 +71,7 @@ Image-Stitching/
 │
 ├── README.md
 ├── notebooks/
-│   └── YuanZou_31523374.ipynb
+│   └── Image_stitching.ipynb
 │
 ├── docs/
 │   └── images/
